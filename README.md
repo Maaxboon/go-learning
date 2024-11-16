@@ -8,3 +8,8 @@
 # Go Code Structure
 
 - Go programs are organized in packages, and the entry point of any Go program is the main package with a main() function.
+
+## What to Observe
+- var Keyword: Used to declare a variable with a specific type.
+- Short Declaration: := is a shorthand for declaring and initializing a variable (type is inferred).
+- Constants: Declared with const and cannot be changed.

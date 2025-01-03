@@ -20,5 +20,5 @@ undefined
 
 // Objects
 {
-  name: Maaxboon;
+  name: "Maaxboon";
 }

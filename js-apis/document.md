@@ -36,3 +36,10 @@
 - JSON => JavaScript Object Notation
   - JSON is a LARGE javascript object with all data received from the database.
 - The data is available now to be used in the application.
+
+# Deliverables:
+
+- Attach a 'click' event to the 'Get Random Fact' button
+- When the button is clicked, make a request to a third party api for a random fact using the following URL:
+  - https://catfact.ninja/fact
+- Update the DOM to render the random fact response from the request inside the .random-fact-div element

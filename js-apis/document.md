@@ -26,3 +26,13 @@
 - The server receives and processes the request.
 - Communication between server and database.
 - Then sends response back to the client.
+
+# Using fetch() to make a request to an API
+
+- fetch() is a build in JavaScript function that can be used to make a request.
+- A URL(endpoint) is passed in an argument.
+- When the request is completed a response will be returned.
+- The response gets parsed into a readable version, i.e JSON
+- JSON => JavaScript Object Notation
+  - JSON is a LARGE javascript object with all data received from the database.
+- The data is available now to be used in the application.
